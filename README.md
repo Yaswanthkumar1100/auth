@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project that is made to authenticate us
 
 First, Clone the project to your system:
 ```bash
-git clone https://github.com/Yaswanthkumar1100/auth
+git clone https://github.com/Yaswanthkumar1100/auth.git
 ```
 
 Install the required packages:
